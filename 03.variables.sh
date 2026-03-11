@@ -1,5 +1,5 @@
-PERSON1=Suresh
-PERSON2=Ramesh
+PERSON1=Triumph
+PERSON2=putin
 
 echo "$PERSON1:: Hello $PERSON2, How are you ?"
 echo "$PERSON2:: Hi $PERSON1, I am fine thanks for asking, How are you doing?"
