@@ -6,4 +6,4 @@ Y="\e[33m"
 B="\e[34m"
 N="\e[0m"
 
-echo "$R Hello world $N, $Y I am learning Devops $N"
+echo  -e "$R Hello world $N, $Y I am learning Devops $N"
